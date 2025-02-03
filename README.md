@@ -4,7 +4,9 @@ Sylvo -Wolf’s answer to "Sylvan" combat in Achaea
 
 
 Install the latest release through the Package Manager:
-
+[
+[
+](https://github.com/Danlei2004/sylvan.git)](https://github.com/Danlei2004/sylvan.git)
 
 Sylvo is a sylvan offense system to handle your affliction selection.
 
