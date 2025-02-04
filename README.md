@@ -25,12 +25,12 @@ I'd also like to thank the third party code I made use of for this release, prim
 
 GETTING STARTED:
 
-First off make sure you add, ak should have one in the alias section, if you use this one, may not need: 
+First off make sure you add this to your target alias, ak should have one in the alias section, if you use this one, may not need: 
 
 ak.feedback = false
 ak.scoreup(target)
 
-to your target alias, - -  for some reason I kept running into issue where ak wouldn’t see that I lost feedback on target, and this is my temporary fix.
+ - -  for some reason I kept running into issue where ak wouldn’t see that I lost feedback on target, and this is my temporary fix.
 
 ** add vinefn() to "missed hit" trigger in Ak - - will vinewreath 
 
