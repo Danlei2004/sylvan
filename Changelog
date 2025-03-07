@@ -1,0 +1,25 @@
+CHANGELOG
+
+2-20-25
+
+** Re-worked Limb Selector, to prepare better for Heartseed?
+
+** Reordered Thorn afflictions and adjust some of the class stuff (needs more)
+
+** Fixed heartseed to apply before torso is broken, not after
+
+** Added in "AutoAssist"
+
+** Fixed prefix in scripts and  added prepend
+
+** Bees managment fixed? (Definitely not as well as I hoped, but suitable for now)
+
+*** fix notes about thrLL (not fixed)
+
+** added some class/target “remembering” stuff
+
+** loadTargetClasses() needs to be added to a event that is loaded when you log in
+
+** re-worked thorn and limb, so they have more “options”
+
+** added echoes back into [cs]
