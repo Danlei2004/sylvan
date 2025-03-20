@@ -1,5 +1,33 @@
 CHANGELOG
 
+**REMINDER**
+  It is ALWAYS good practice to “copy” your profile before makeing any major changes
+
+
+3-19-25
+
+** Legacy/Romaen’s limb users, can now toggle the use of this system with iamrome or turn: ak.limbs.sync_enabled = false, to true in the SlyvLoad script (untested as I use ak’s limbs)
+
+** fixed weaving’s “thorn affliction handling” to “finish” a lock
+
+** made changes to defaults  and their usage to properly use them
+
+** added swing staff to thorn portion of weaving’s attack
+
+** changed some of the queing stuff to freestand instead of eq/eqbal
+
+** moved anorexia for weathers qlock to before stupidity 
+
+** added restoration salve logic to heartseed
+
+** changed the way the fulmination stuff is queued 
+
+** fixed prepend’s to be less spammy and add things to queue under certain conditions
+
+** moved quicklock’s placement in weaving and fixed and adjusted some of the afflictions 
+
+** commented out, but left in svo stuff for channelcheck in weaving and staffCheck in thorn
+
 3-6-25
 
 ** Re-worked Limb Selector, to prepare better for Heartseed?
