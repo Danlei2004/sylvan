@@ -17,7 +17,7 @@ Sylvo is a sylvan offense system to handle your affliction selection.
 
 While I’ve enjoyed learning to code several times over the many years, this is an "old man’s" attempt to give back to the community. I would like to deeply thank Hikagejuunin and his band of misfits for all their hard work. For if it were not for finding the Loki system, I do not feel my attempts would be as progressed as they are. This slimmed down, basic sylvan offensive system, hopefully gives those that are typically more non-combatant but wish to try, as another functional framework to expand upon. It was my intention to build it in a way that could hopefully be "easily" converted to other classes.
 
-I'd also like to thank the third party code I made use of for this release, primarily Hikas Loki serpent system, Svof and Austere's AK tracker
+I'd also like to thank the third party code I made use of for this release, primarily Hikas Loki serpent system, Svof and Austere's AK tracker, Romean's limb tracking and gmcp
 
 **Sylvo scripts and some of the sylvo aliases have extra commentation and/or tips
 
