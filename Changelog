@@ -1,8 +1,69 @@
-CHANGELOG
-
 **REMINDER**
   It is ALWAYS good practice to “copy” your profile before makeing any major changes
 
+4-14-25
+
+** add limb prep into weather weave
+
+** added Drago, Sylvo’s expansion to multi-class (Dragon)
+
+** [lo] - previous only for Sylvo’s LimbOnly mode but now also toggles Drago’s “lock mode” (untargeted rending)
+
+** added “partylock2” and “partylock3” to [vt] settings, 2 -imp/asth, 3 - sens/asth
+
+** updated “limb logic”
+
+** updated wielding of staff
+
+** updated shockwave logic 
+
+** reworked thornrends class logic
+
+** updated limb selector logic to work with romeans
+
+** overhauled weatherweaving 
+
+** updated channel logic, to only channel if, don’t have the required channels for the proper skills
+
+** updated overcharge logic to “respect” skill requirements when setting false and true in some cases
+
+** added overcharge logic to thornrend  for asthma and weariness 
+
+**removed weatherweaving’s “auto” vinewrithing
+
+** adjusted weatherweaving’s “attack” logic
+
+** updated weatherweaving’s weather and prop “backup” logic
+
+** updated weatherweavings channel check to work with “my_sys”
+
+** updated weatherweaving’s tranfix logic
+
+** adjusted some of the “attack” logic to reflect changes made to flash and bolt
+
+** updated thornrend’s backup prop logic (might need a little more adjustment)
+
+** updated thornrend’s weaving “backup” logic to include bolt if health and arcane energy are correct
+
+** updated staffcheck (now works when my_sys, in SylvoLoad is set to svo, for less spam, otherwise adds wield staff to prefix.
+
+** adjust thornrends prefix, and prepend
+
+** changed thornrends skullcap usage (arcane energy)
+
+** updated thornrend’s “shockwave” logic to “fire” at different target health levels (depending on amount of associated afflictions)
+
+** adjusted some of thornrends “party” and “quick” lock afflictions 
+
+**updated some of thornrends “class logic”
+
+** fixed thornrend alias to work as intended, check comments in alias to see ways to use
+
+** updated weaving’s “class logic” and added in some “leg prep” stuff
+
+** updated weaving logic to overcharge for asthma or weariness, if proper AE
+
+** Fixed SylvLoad(Settings)
 
 3-19-25
 
@@ -28,7 +89,8 @@ CHANGELOG
 
 ** commented out, but left in svo stuff for channelcheck in weaving and staffCheck in thorn
 
-3-6-25
+
+2-20-25
 
 ** Re-worked Limb Selector, to prepare better for Heartseed?
 
