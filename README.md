@@ -4,6 +4,9 @@ Sylvo -Wolf’s answer to "Sylvan" combat in Achaea
 
 Link to AK: https://www.dropbox.com/scl/fo/04ci9tq4rivks1r4oar37/ABxzEVpvvrBvjv9V4IYc2s0?rlkey=kyu53u5f96w5ra05xkkvujd3d&st=cqjkv3u1&dl=0
 
+Link to Romaen's Limb Counter: https://github.com/27theo/limb
+** Documentation to set up is here
+
 Link to LOKI: https://github.com/Hikagejuunin/Loki
 ** figured, as my own work is largly based on his, I'd leave this here
 
